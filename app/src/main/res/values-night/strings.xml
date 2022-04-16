@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SS64</string>
+    <string name="action_settings">Settings</string>
+    <string name="SERVICE_AMAZON">amazon</string>
+    <string name="SERVICE_PASSWORD" />
+    <string name="enter_master_password">Enter master password...</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="google_service_name">google</string>
+    <string name="custom_service_hint_text">Custom service</string>
+    <string name="apple_service_name">apple</string>
+    <string name="main_password_hint">Main Password</string>
+
+</resources>
